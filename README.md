@@ -83,3 +83,4 @@ Contributions are welcome! Please follow the standard GitHub workflow for submit
 
 
 ## License
+MIT LICENSE
